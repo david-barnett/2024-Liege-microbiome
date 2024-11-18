@@ -22,7 +22,7 @@ other-links:
     icon: "house"
     target: "_blank"
   - text: "posit.cloud workspace"
-    href: "https://posit.cloud/spaces/TODO!"
+    href: "https://posit.cloud/spaces/583413"
     icon: "cloud"
     target: "_blank"
 number-sections: true
@@ -1167,9 +1167,9 @@ You can learn how to customise these tree plots to your needs, with this extende
 -   how to use a different regression modelling approach
 :::
 
-## Extra challenge
+## Extra challenges
 
-If you have already carefully gone through everything above, you may be ready for a real challenge.
+If you have already carefully gone through everything above, you could attempt these optional extra challenges.
 
 ### The secondary aims
 
@@ -1183,7 +1183,7 @@ Are IBD-related medications associated with microbiota diversity, composition, o
 
 ### Instructions?
 
-No code is provided for this challenge - just suggestions.
+No code is provided for these challenges - just suggestions.
 
 #### **Disease activity:**
 
